@@ -1,5 +1,5 @@
 # Is it an airplane 🛩, boat ⛵️, or car 🚗?
-Quick image classification model designed to tell the difference between an airplane, boat,  or a car that was trained on hundreds of images!
+Airplane-Boat-Car is a lightweight image classification model designed to tell the difference between an airplane, boat, or a car. This model was trained on hundreds of images to make the results as accurate as they are! Try using any images you find with this model by downloading the required packages in requirements.txt, changing the file path in main.py to your image path, and running main.py!
 
 # Airplane test
 ![airplane](https://user-images.githubusercontent.com/101684827/174423003-b3861ab6-751e-4fdc-aec9-5827cce95f14.jpeg)
