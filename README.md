@@ -16,3 +16,11 @@ After running main.py:
 
 1/1 [==============================] - 1s 502ms/step
 Boat
+
+# Car test
+![car](https://user-images.githubusercontent.com/101684827/174423200-4457f9b6-89e2-4c2d-ac99-181f90ea39c8.jpeg)
+
+After running main.py:
+
+1/1 [==============================] - 1s 655ms/step
+Car
