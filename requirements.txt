@@ -1,0 +1,8 @@
+keras==2.9.0
+keras_image_classification_wrapper==0.0.2
+matplotlib==3.5.2
+numpy==1.22.4
+Pillow==9.1.1
+tensorflow==2.9.1
+tensorflow_datasets==4.6.0
+tensorflow_macos==2.9.2
